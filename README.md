@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Austin
+## Hi there 👋, I'm Marcelo
 
 I'm a full-stack developer basing in Auckland, New Zealand, focused on building web applications that prioritize utility and solve real human problems. I have enjoy creating complex systems from many moving parts.
 
@@ -11,7 +11,9 @@ outside of programming I'm a Siva Afi dancer, I have a keen interest in empoweri
 **📣 Connect With Me!**
 
 Github: 
+
 LinkedIn: www.linkedin.com/in/marceloreyestokuma
+
 My Cv:
 
 **Working on**
