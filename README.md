@@ -20,7 +20,7 @@ My Cv:
 
 Currently I am working on developing my skills as a programmer, learing how to implement websockets, python and C
 
-#Previous Projects:#
+**Previous Projects:**
 
 ## Skill Swap
 
