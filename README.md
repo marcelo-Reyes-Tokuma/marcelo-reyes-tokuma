@@ -20,16 +20,16 @@ My Cv:
 
 Currently I am working on developing my skills as a programmer, learing how to implement websockets, python and C
 
-**Previous Projects:**
+## Previous Projects:
 
-## Skill Swap
+### Skill Swap
 
 On the final technical week of Dev Academy we applied all we learnt to make a project from scratch over the course of a week. I created the idea after struggling to navigate the website StackOverflow, I wanted to make a beginner-friendly code forum with questions, profiles, messaging and video calls. 
 
 You can find the Repo for the repository here, this is a project done with three others on a private repository.
 https://github.com/ngahuru-2025/skillswap
 
-##Meowtivations
+### Meowtivations
 
 There was also a largeer project simulating a larger team. 9 people wroked to create a website to call apis, randomise the calling as well uploading personal files.
 <!--
