@@ -10,11 +10,9 @@ outside of programming I'm a Siva Afi dancer, I have a keen interest in empoweri
 
 ## 📣 Connect With Me!
 
-Github: 
+Github: [https://github.com/marcelo-Reyes-Tokuma]
 
-LinkedIn: www.linkedin.com/in/marceloreyestokuma
-
-My Cv:
+LinkedIn: [www.linkedin.com/in/marceloreyestokuma]
 
 # Working on
 
